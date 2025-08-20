@@ -16,4 +16,5 @@ This project implements a simple AI chatbot using the NLTK library for Natural L
 
 OUTPUT:
 
-![Uploading Screenshot 2025-08-13 122036.png…]()
+<img width="896" height="566" alt="Screenshot 2025-08-13 122036" src="https://github.com/user-attachments/assets/a10d809b-b3b1-44a9-9bcf-98c74c235d26" />
+
